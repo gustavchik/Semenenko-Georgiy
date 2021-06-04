@@ -1,0 +1,85 @@
+.a {
+color:#C6C6C6;
+position relative;text-align: center;
+    font-family: Verdana;	
+}
+.d {
+color:#C6C6C6;
+position relative;text-align: center;
+    font-family: Verdana;
+}
+.e {
+color:#C6C6C6;
+position relative;text-align: left;
+    font-family: Verdana;
+}
+h3 {
+color:#C6C6C6;
+position relative;text-align: center;
+    font-family: Verdana;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h4 {
+color:#C6C6C6;
+position relative;text-align: center;
+    font-family: Verdana;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+    h5 {
+color:#C6C6C6;
+position relative;text-align: center;
+    font-family: Verdana;
+    margin-top: -26px;
+    margin-left: 75px;
+    }
+article {
+	height: 100px;
+	width: 100%;
+
+}
+* {
+	padding: 0 ;
+	margin: 0;
+
+}
+
+
+   div {
+    height: 50px;
+    width: 100%;
+    background:  repeat-y #727272;
+
+   }
+   table {
+   	 height: 15%px;
+    width: 100%;
+
+
+   }
+  dir {
+	height: 50px;
+	width: 100%;
+}
+   ol {
+	height: 175px;
+	width: 100%;
+    padding-left: 10px ;
+
+}
+a {
+    color: #FFFFFF; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   }
+   a:visited {
+    color: #A9A74C; /* Цвет посещённой ссылки */
+   } 
+   a:hover {
+    color: #777631; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
+p {
+color:#C6C6C6;
+position relative;text-align: center;
+    }
